@@ -4,7 +4,7 @@
 
 Very simple code folding and syntax highlighting for files created by the [MIKE by DHI][mike] hydrodyanmic modelling software.  Currently auto-detects files with `.m21fm` and `.ecolab` extentions.  Requires [Notepad++][npp] (obviously).  Developed for MIKE 2011 but may work with other versions.  
 
-![Code folding in DHI PFS files!](with_highlight_crop.png)
+![code_folding](/with_highlight_crop.png "Code folding in DHI PFS files!")
 
 ## Usage
 
