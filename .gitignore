@@ -161,3 +161,7 @@ pip-log.txt
 
 # Mac crap
 .DS_Store
+
+# Development Files #
+##################
+*/dev_data/
