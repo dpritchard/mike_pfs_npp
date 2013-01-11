@@ -2,7 +2,7 @@
 
 ## Overview
 
-Very simple code folding and syntax highlighting for files created by the [MIKE by DHI][mike] hydrodyanmic modelling software.  Currently auto-detects files with `.m21fm` and `.ecolab` extentions.  Requires [Notepad++][npp] (obviously).  Developed for MIKE 2011 but may work with other versions.  
+Very simple code folding and syntax highlighting in [Notepad++][npp] for files created by the [MIKE by DHI][mike] hydrodyanmic modelling software.  Currently auto-detects files with `.m21fm` and `.ecolab` extentions.  Requires [Notepad++][npp] (obviously).  Developed for MIKE 2011 but may work with other versions.  
 
 ## Usage
 
