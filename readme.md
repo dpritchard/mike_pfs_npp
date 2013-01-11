@@ -4,8 +4,6 @@
 
 Very simple code folding and syntax highlighting for files created by the [MIKE by DHI][mike] hydrodyanmic modelling software.  Currently auto-detects files with `.m21fm` and `.ecolab` extentions.  Requires [Notepad++][npp] (obviously).  Developed for MIKE 2011 but may work with other versions.  
 
-![code_folding](https://raw.github.com/dpritchard/mike_pfs_npp/master/with_highlight_crop.png "Code folding in DHI PFS files!")
-
 ## Usage
 
 Notepad++ allows you to add new languages by adding language definitions to a userDefineLang.xml file. Add the MIKE_PFS definition like this:
@@ -17,6 +15,10 @@ Notepad++ allows you to add new languages by adding language definitions to a us
 5. Copy the contents of the MIKE_PFS definition file between the `<UserLang>...</UserLang>` tags into the active `userDefineLang.xml`, at the end right before `</NotepadPlus>`.
 6. Save `userDefineLang.xml`.
 7. Restart Notepad++.
+
+## Screenshot
+
+![code_folding](https://raw.github.com/dpritchard/mike_pfs_npp/master/with_highlight_crop.png "Code folding in DHI PFS files!")
 
 ## Credit
 Inspired by (and much of this readme stolen from) [thomsmits'][thomsmits] [markdown_npp][mdnpp] project.  
