@@ -20,8 +20,8 @@ Notepad++ allows you to add new languages by adding language definitions to a us
 Inspired by (and much of this readme stolen from) [thomsmits'][thomsmits] [markdown_npp][mdnpp] project.  
 
 ## Licence
-Created by Daniel Pritchard (www.pritchard.co)
-Distributed under a creative commons CC BY-SA licence.  See here:
+Created by Daniel Pritchard (www.pritchard.co)  
+Distributed under a creative commons CC BY-SA licence.  See here:  
 http://creativecommons.org/licenses/by-sa/3.0/
 
 [thomsmits]: https://github.com/thomsmits
