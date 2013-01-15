@@ -31,5 +31,5 @@ http://creativecommons.org/licenses/by-sa/3.0/
 [thomsmits]: https://github.com/thomsmits
 [mike]: http://www.dhisoftware.com
 [mdnpp]: https://github.com/thomsmits/markdown_npp
-[direct_download]: https://github.com/dpritchard/mike_pfs_npp/blob/master/userDefineLang.xml
+[direct_download]: https://raw.github.com/dpritchard/mike_pfs_npp/master/userDefineLang.xml
 [npp]: http://notepad-plus-plus.org
